@@ -39,7 +39,7 @@ const Header = () => {
 
           {/* Desktop menu */}
           <ul className="hidden md:flex space-x-10">
-            {['Home', 'About', 'Portfolio', 'Skills', 'Contact'].map(item => (
+            {['Home', 'About', 'Portfolio', 'Skills', 'Testimonials', 'Contact'].map(item => (
               <li key={item}>
                 <a
                   href={`#${item.toLowerCase()}`}
@@ -57,7 +57,7 @@ const Header = () => {
         {isMenuOpen && (
           <div className="md:hidden bg-black bg-opacity-95 mt-3 py-4 px-2 rounded-lg shadow-lg border border-gray-800 animate-fadeIn">
             <ul className="space-y-1">
-              {['Home', 'About', 'Portfolio', 'Skills', 'Contact'].map(item => (
+              {['Home', 'About', 'Portfolio', 'Skills', 'Testimonials', 'Contact'].map(item => (
                 <li key={item}>
                   <a
                     href={`#${item.toLowerCase()}`}

@@ -1,6 +1,6 @@
 # oduho ohisa - Vite Template
 
-[](https://magicpatterns.com) for this design: [Source Design](https://www.magicpatterns.com/c/i6hjlhyuq9xjtvdjfdumrp)
+[](https://magicpatterns.com) for this design: [](https://www.magicpatterns.com/c/i6hjlhyuq9xjtvdjfdumrp)
 
 ## Getting Started
 

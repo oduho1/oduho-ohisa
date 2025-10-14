@@ -1,4 +1,4 @@
-import myImage from "../../assets/image.png"; // ✅ correct relative path
+import myImage from "../../assets/image.png"; // 
 
 const About = () => {
   return (
